@@ -1,0 +1,12 @@
+marek
+24956d71182c1768d4195920e39ba0f5
+predavac
+
+peter
+37d8ba0d30ed225aa2188c98799049d8
+skladnik
+
+martin
+99eb170c699c6469e11c62cb357c61ca
+skladnik
+
