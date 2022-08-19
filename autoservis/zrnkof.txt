@@ -2,5 +2,3 @@ Tepovanie
 32
 STK
 32
-umyvanie
-40
